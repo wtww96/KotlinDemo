@@ -17,7 +17,12 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical" >
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="分支测试: master 分支" />
 
             <SearchView
                 android:layout_width="match_parent"
@@ -57,11 +62,6 @@
                 android:text="Switch" />
         </LinearLayout>
 
-        <AutoCompleteTextView
-            android:id="@+id/autoCompleteTextView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="AutoCompleteTextView" />
     </ScrollView>
 
 </LinearLayout>
