@@ -22,7 +22,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="分支测试: one 分支" />
+                android:text="分支测试: one 分支分支分支分支" />
 
             <TextSwitcher
                 android:layout_width="match_parent"
