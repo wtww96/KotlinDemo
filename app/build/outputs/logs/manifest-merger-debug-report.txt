@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3c4049894263927a5d082c28d346f403\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2fe9a9b7c486cab8525ecc1ed82c0e75\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\7d6bb7efbf79fa6c68ef0e901a2d710d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\fa7b3ac3eca62c969724cbeadac1a9a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\3b32e6b3f472e5afa84917b05b8956da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a04d999d51fb0147c4fa5c502648f615\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\57dd7ba8b23aa96a840a6436e528800d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\1f43e9ac314949f0bdc1d6f1f7276095\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\8711e1e9a821abb83e310e31645cf0cc\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2fe9a9b7c486cab8525ecc1ed82c0e75\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2fe9a9b7c486cab8525ecc1ed82c0e75\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.kotlindemo.MainActivity
+ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3c4049894263927a5d082c28d346f403\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\3c4049894263927a5d082c28d346f403\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2fe9a9b7c486cab8525ecc1ed82c0e75\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2fe9a9b7c486cab8525ecc1ed82c0e75\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\7d6bb7efbf79fa6c68ef0e901a2d710d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\7d6bb7efbf79fa6c68ef0e901a2d710d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\fa7b3ac3eca62c969724cbeadac1a9a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\fa7b3ac3eca62c969724cbeadac1a9a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\3b32e6b3f472e5afa84917b05b8956da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\3b32e6b3f472e5afa84917b05b8956da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a04d999d51fb0147c4fa5c502648f615\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a04d999d51fb0147c4fa5c502648f615\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\57dd7ba8b23aa96a840a6436e528800d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\57dd7ba8b23aa96a840a6436e528800d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\1f43e9ac314949f0bdc1d6f1f7276095\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\1f43e9ac314949f0bdc1d6f1f7276095\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\8711e1e9a821abb83e310e31645cf0cc\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\8711e1e9a821abb83e310e31645cf0cc\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android_Work\AS_Space\KotlinDemo\app\src\main\AndroidManifest.xml
