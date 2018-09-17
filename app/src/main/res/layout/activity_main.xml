@@ -22,7 +22,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="分支测试: master 分支" />
+                android:text="分支测试: master master master master 分支" />
 
             <SearchView
                 android:layout_width="match_parent"
