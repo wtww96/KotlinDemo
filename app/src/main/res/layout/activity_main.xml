@@ -17,7 +17,48 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical" >
+            android:orientation="vertical">
+
+            <TextSwitcher
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <StackView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <AdapterViewFlipper
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <ImageSwitcher
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <TextClock
+                android:id="@+id/textClock"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Chronometer
+                android:id="@+id/chronometer2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <CalendarView
+                android:id="@+id/calendarView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <DatePicker
+                android:id="@+id/datePicker"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TimePicker
+                android:id="@+id/timePicker2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
 
             <SearchView
                 android:layout_width="match_parent"
@@ -28,12 +69,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="ToggleButton" />
-
-            <CheckedTextView
-                android:id="@+id/checkedTextView"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="CheckedTextView" />
 
             <Spinner
                 android:id="@+id/spinner"
@@ -55,13 +90,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Switch" />
+
         </LinearLayout>
 
-        <AutoCompleteTextView
-            android:id="@+id/autoCompleteTextView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="AutoCompleteTextView" />
     </ScrollView>
 
 </LinearLayout>
