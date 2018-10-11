@@ -15,6 +15,7 @@ public class BuyActivity extends Activity {
     private String sjfhdfjsdfjsd = "第四次测试冲突";
     private String djsfkdskhfj = "第七次测试冲突";
     private String jkgdfsed = "第ba次测试冲突";
+    private String qwertasdasd1234 = "第ba111111111次测试冲突";
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
